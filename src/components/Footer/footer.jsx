@@ -1,0 +1,8 @@
+import React from 'react';
+import "./footer.css";
+function contact() {
+  return (
+    <div>contact</div>
+  )
+}
+export default contact
