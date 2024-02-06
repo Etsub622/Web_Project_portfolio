@@ -37,7 +37,7 @@ body{
     background: var(--color-bg);
     color:var(--color-white);
     line-height:1.7;
-    background: linear-gradient(-45deg, #000000, #1b1d24, #181201,rgb(255, 254, 251));
+    /* background: linear-gradient(-45deg, #000000, #1b1d24, #181201,rgb(255, 254, 251)); */
     animation: gradient 15s ease infinite;
     height: 100vh;
     background-size: 400% 400%;

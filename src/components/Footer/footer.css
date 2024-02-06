@@ -1,0 +1,48 @@
+.social-container {
+    background: #eee;
+    padding: 25px 50px;
+    
+  }
+  a.social {
+    margin: 0 1rem;
+    transition: transform 250ms;
+    display: inline-flex;
+   
+
+  
+  }
+  a.social:hover {
+    transform: translateY(-2px);
+  }
+  a.telegram {
+    color: var(--color-primary);
+  }
+  
+  a.facebook {
+    color: var(--color-primary);
+  }
+  
+  a.tiktok {
+    color: var(--color-primary);
+  }
+  
+  a.instagram {
+    color: var(--color-primary);
+  }
+h3 {
+    font-size: 35px;
+    line-height: 60px;
+    font-family: Playfair Display;
+    font-weight: 900;
+    color: #ffffff;
+  
+}
+.dorik {
+  margin-top: 80px;
+  padding-bottom: 20px;
+  background-color: #131F22;
+  padding-top: 20px;
+  display: grid;
+  justify-content: end;
+
+}

@@ -3,11 +3,11 @@ body {
   color: white;
   margin: 0;
   font-family: Arial, sans-serif;
-  padding-top: 100px;
+  padding-top: 30px;
 }
 
 .contact-container {
-  max-width: 400px;
+  max-width: 700px;
   margin: auto;
   background-color: #333;
   color: white;
@@ -37,7 +37,8 @@ label {
 
 input,
 textarea {
-  padding: 10px;
+  width: 30rem;
+  padding: 20px;
   margin-bottom: 10px;
   background-color: #555;
   color: white;
@@ -46,7 +47,8 @@ textarea {
 }
 
 textarea {
-  height: 150px;
+  height: 120px;
+  
 }
 
 button {
