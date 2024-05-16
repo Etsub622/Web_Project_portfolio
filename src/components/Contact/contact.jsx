@@ -22,9 +22,9 @@ const ContactPage = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
 
-    const serviceId = "service_xggplug";
-    const templateId = "template_tv8wjpf";
-    const userId = "QMRSYAtk_Q1LHnhdf";
+    const serviceId = "service_kpb9xr5";
+    const templateId = "template_mz6dft9";
+    const userId = "zEMXGLKAka9c3Mivc";
 
     emailjs
       .send(serviceId, templateId, formData, userId)

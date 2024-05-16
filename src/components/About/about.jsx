@@ -1,6 +1,6 @@
 import React from 'react';
 import "./about.css";
-import MamePic from "../../assets/mame.png";
+import DagiPic from "../../assets/dagi.jpg";
 import {FaAward} from "react-icons/fa";
 import {FiUsers} from "react-icons/fi";
 import {VscFolderLibrary} from "react-icons/vsc";
@@ -10,7 +10,7 @@ function about() {
     <div className='about_container'>
       <div className='profile'>
         <h5> About me </h5>
-        <img src={MamePic} alt="mame's pic"/>
+        <img src={DagiPic} alt="mame's pic"/>
         <h5> Graphics Designer </h5>
         <p> 
 I'm Mohammed Abdela, also known as Yomame, a seasoned graphics designer, video editor, and logo maker with a year of professional experience.

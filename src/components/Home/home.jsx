@@ -1,7 +1,7 @@
 import React from 'react';
 import "./home.css";
 import CTA from "./CTA"
-import Mamepic from "../../assets/mame.png"
+import Dagipic from "../../assets/dagi.jpg"
 
 const Home=()=>{
   return (
@@ -19,7 +19,7 @@ const Home=()=>{
           <CTA />
        </div>
           <div>
-             <img  className='mamePic' src={Mamepic} alt="profilePic" />
+             <img  className='mamePic' src={Dagipic} alt="profilePic" />
           </div>
 
       </div>

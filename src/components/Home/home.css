@@ -20,7 +20,7 @@ header{
 
 /* img */
 .mamePic{
-    background: linear-gradient(rgb(253, 236, 140),transparent);
+    background: linear-gradient(rgb(166, 127, 233),transparent);
     background-color: var(--color-primary);
     width:26rem;
     height:26rem;
